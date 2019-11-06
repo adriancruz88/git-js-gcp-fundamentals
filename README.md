@@ -7,7 +7,7 @@ El objetivo del curso es reforzar el conocimiento necesario de un proyecto de de
 ### Semana 1
 
 - Día 1
-  - Sesión: [FUNDAMENTOS](fundamentos_de_git.md)
+  - Sesión: [FUNDAMENTOS](fundamentos_de_git.md) FOO
   - Descripción: Se revisarán los fundamentos de GIT así como los comandos más usados y resolución de conflictos.
 - Día 2
   - Sesión: [GIT PARTE 2](#)
