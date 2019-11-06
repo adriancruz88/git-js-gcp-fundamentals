@@ -62,6 +62,11 @@ El mantenimiento o las ramas “hotfix” se utilizan para parchear rápidamente
 
 - **git init** - Este comando se usa para crear un nuevo repositorio GIT (inicializa GIT en el proyecto).
 - **git add** - Este comando puede ser usado para agregar archivos a la stagin area
+
+Agregar archivos de forma interactiva
+
+git add -i
+
 - **git status** - Este comando muestra la lista de los archivos que se han cambiado junto con los archivos que están por ser añadidos o comprometidos.
 - **git branch** - Este comando se usa para listar, crear o borrar ramas (git branch -d )
 - **git reset** - El comando se usa para resetear la staging área y el directorio que está trabajando al último estado comprometido.
